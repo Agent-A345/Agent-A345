@@ -15,5 +15,5 @@ I’m an AI/ML-focused IT undergrad who builds end-to-end AI applications. My in
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Agent-A345&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
+### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
