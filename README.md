@@ -32,7 +32,7 @@ I'm an AI/ML-focused IT undergrad who builds end-to-end AI applications. My inte
 
 ---
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy-liard-delta.vercel.app/?username=Agent-A345&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://trophygithubreadmelang.cybee.dpdns.org/?username=Agent-A345&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 <!-- Wave Footer -->
 <div align="center">
